@@ -27,7 +27,7 @@ By structuring the cleaned data into an executive-level layout, several key mark
 ## 💻 Interactive Demonstration
 *(Below is a demonstration of the dashboard's cross-filtering capabilities, allowing executives to isolate market trends by specific vehicle makes or body types.)*
 
-![Dashboard Demo](dashboard-demo.gif)
+<video src="dashboard-demo.mp4" controls="controls" muted="muted" width="100%"></video>
 
 ---
 *This project demonstrates end-to-end data pipeline proficiency, from raw ETL (Extract, Transform, Load) processing to executive UX/UI visualization.*
